@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vkom76
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning front-end development.
+- 🌱 I’m currently busy
 
 - 📫 Contact me to vkom76@gmail.com
 
